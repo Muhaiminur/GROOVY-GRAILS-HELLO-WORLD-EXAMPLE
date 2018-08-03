@@ -1,0 +1,5 @@
+#)create-app HELLO_ABIR
+#)cd hello_abir
+#)grails
+#)create-domain-class hello_abir.Person
+#)generate-all hello_abir.Person
